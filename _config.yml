@@ -3,34 +3,30 @@
 title: Hacked Jekyll
 description: Jekyll microtheme that looks like JSON
 baseurl: ""
-url: https://hacked-jekyll.netlify.app
+url: https://kminsmin.github.io
 
 # this information is shown on the homepage, all fields are optional and
 # can be declared either as a single string or as a string array/hash
 json:
-  name: Place Holder
+  name: 
   description:
     - Hello!
     - This tiny website
     - Looks like json
   cv: assets/cv.pdf
-  address:
-    - University of Jekyll
-    - Department of Themes
-    - 123 Main St, Anytown, USA
+  info:
+    - department of mechanical engineering
+    - hanyang university
+    - seoul, south korea
   contact:
-    office: Foobar Hall 1.23
-    phone: +1 234 567 890
-    email: username@domain.com
-  demo: https://hacked-jekyll.netlify.app
-  source: https://github.com/piazzai/hacked-jekyll
+    office: "null"
+    phone: 010-4790-3231
+    email: kminsmin@gmail.com
+  blog address: https://kminsmin.github.io
+  source : https://github.com/piazzai/hacked-jekyll
   profiles:
-    facebook: https://www.facebook.com
-    twitter: https://twitter.com
-    instagram: https://www.instagram.com
-    linkedin: https://www.linkedin.com
-    stackoverflow: https://stackoverflow.com
-    github: https://github.com
+    instagram: https://www.instagram.com/kminsmin/
+    github: https://github.com/kminsmin
 
 exclude:
   - LICENSE
