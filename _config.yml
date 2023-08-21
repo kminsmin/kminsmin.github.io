@@ -1,7 +1,7 @@
 # this is only for search engines, it does not appear in the home
 # as long as the json variables name and description are provided
-title: Hacked Jekyll
-description: Jekyll microtheme that looks like JSON
+title: Kyungmin's Blog
+description: Blog for studies & self reflection
 baseurl: ""
 url: https://kminsmin.github.io
 
@@ -11,8 +11,8 @@ json:
   name: 
   description:
     - Hello!
-    - This tiny website
-    - Looks like json
+    - Welcome,
+    - But I've got nothing here yet.
   cv: assets/cv.pdf
   info:
     - department of mechanical engineering
