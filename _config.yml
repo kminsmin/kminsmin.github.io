@@ -10,9 +10,9 @@ url: https://kminsmin.github.io
 json:
   name: 
   description:
-    - Hello!
-    - Welcome,
-    - But I've got nothing here yet.
+    - Hello
+    - Welcome
+    - But I've got nothing here yet
   cv: assets/cv.pdf
   info:
     - department of mechanical engineering
